@@ -1,3 +1,11 @@
+game:GetService("StarterGui"):SetCore("SendNotification",
+							{
+								Title = "Ability Hub",
+								Text = "Ability Hub Working Blox Fruits...",
+								Icon = "",
+							}
+						)
+						wait(1)
 _, Protected_by_MoonSecV2, Discord = 'discord.gg/gQEH2uZxUk'
 
 
